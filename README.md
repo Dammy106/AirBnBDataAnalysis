@@ -8,7 +8,7 @@ The goal of this project was to explore the Airbnb dataset to better understand 
 The dataset used for this project contains Airbnb listings in New York City. It includes information about room types, neighborhood groups, prices, reviews, and other listing details.
 
 ## Key Steps
-###Data Loading and Cleaning
+### Data Loading and Cleaning
 
 Loaded the dataset using Pandas.<br/>
 Cleaned null values and dropped duplicate rows to ensure data quality.<br/>
